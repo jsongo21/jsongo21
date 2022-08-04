@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <div>
   <img height="154" src="https://github-readme-stats.vercel.app/api?username=jsongo21&show_icons=true&theme=dracula&count_private=true&hide=contribs" />
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsongo21&layout=compact&theme=dracula&hide=php&langs_count=6" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=jsongo21&layout=compact&theme=dracula&langs_count=6" />
+  <img height="154" src="https://github-readme-stats.vercel.app/api/wakatime?username=jsongo21&layout=compact&theme=dracula&langs_count=6" />
 </div>
