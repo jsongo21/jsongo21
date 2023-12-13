@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **jsongo21/jsongo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Statistics
 <div>
-  <img height="154" width="445" src="https://github-readme-stats.vercel.app/api?username=jsongo21&show_icons=true&theme=dracula&count_private=true&hide=contribs" />
-  <img height="154" width="445" src="https://github-readme-stats.vercel.app/api/wakatime?username=jsongo21&layout=compact&theme=dracula&langs_count=6" />
-  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsongo21&layout=compact&theme=dracula&hide=php&langs_count=6" />
+  <a href="https://github.com/jsongo21?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=jsongo21&show_icons=true&theme=dracula&count_private=true&hide=contribs" /></a>
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodorusclarence&layout=compact&theme=react&hide=php&langs_count=6" />
+  <a href="https://wakatime.com/@jsongo21"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=jsongo21&layout=compact&theme=dracula&langs_count=6" /></a>
 </div>
