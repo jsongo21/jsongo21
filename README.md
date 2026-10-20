@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Statistics
 <div>
-  <a href="https://github.com/jsongo21?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-stats-extended-seven-iota-10.vercel.app/api?username=jsongo21&show_icons=true&theme=dracula&count_private=true&hide=contribs&include_all_commits=true&v=2" /></a>
-  <img height="154" src="https://github-stats-extended-seven-iota-10.vercel.app/api/top-langs/?username=jsongo21&layout=compact&theme=dracula&langs_count=6&v=2" />
-  <a href="https://wakatime.com/@jsongo21"><img height="150" src="https://github-stats-extended-seven-iota-10.vercel.app/api/wakatime?username=jsongo21&layout=compact&theme=dracula&langs_count=6&v=2" /></a>
+  <a href="https://github.com/jsongo21?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-stats-extended-seven-iota-10.vercel.app/api?username=jsongo21&show_icons=true&theme=dracula&count_private=true&hide=contribs&include_all_commits=true&cache_seconds=14400" /></a>
+  <img height="154" src="https://github-stats-extended-seven-iota-10.vercel.app/api/top-langs/?username=jsongo21&layout=compact&theme=dracula&langs_count=6&cache_seconds=14400" />
+  <a href="https://wakatime.com/@jsongo21"><img height="150" src="https://github-stats-extended-seven-iota-10.vercel.app/api/wakatime?username=jsongo21&layout=compact&theme=dracula&langs_count=6&cache_seconds=14400" /></a>
 </div>
